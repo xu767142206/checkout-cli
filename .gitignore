@@ -1,0 +1,6 @@
+!.gitignore
+go.sum
+*.exe
+vendor/
+*.bat
+resources/
